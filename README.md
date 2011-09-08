@@ -5,6 +5,8 @@ complete for every language PHPStorm supports. The original
 documentation about the Solarized color schemes can be found here:
 http://ethanschoonover.com/solarized
 
+I recommend using the font "Inconsolata" with this color scheme.
+
 # Installation
 
 Go to Preferences -> Editor -> Colors and Fonts. Create a new color

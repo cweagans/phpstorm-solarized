@@ -23,7 +23,7 @@ On a Mac, you'll find that file at
 `~/Library/Preferences/WebIDE10/colors/Solarized Dark.xml`
 
 On a Linux that file is located at
-`~/.WebIde10/confid/colors/Solarized Dark.xml`
+`~/.WebIde10/config/colors/Solarized Dark.xml`
 
 For Windows you're probably on your own. I don't know where
 it would be stored.

@@ -20,9 +20,12 @@ Replace that file and the one called "Solarized Dark.xml" with the ones
 in my github repository.
 
 On a Mac, you'll find that file at
-~/Library/Preferences/WebIDE10/colors/Solarized Dark.xml
+`~/Library/Preferences/WebIDE10/colors/Solarized Dark.xml`
 
-For Windows and Linux, you're probably on your own. I don't know where
+On a Linux that file is located at
+`~/.WebIde10/confid/colors/Solarized Dark.xml`
+
+For Windows you're probably on your own. I don't know where
 it would be stored.
 
 # Why not package as a .jar?
